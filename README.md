@@ -1069,4 +1069,5 @@ the terminal output.
 
 ## License
 
-A license has not yet been specified in a `LICENSE` file.
+This project is licensed under the MIT License. See [LICENSE](LICENSE)
+for the full license text.
